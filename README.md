@@ -9,4 +9,17 @@ services:
 
 
 i3 dependencies for my build
-firefox cherrytree virtualbox xfce4 flameshot thunar pavucontrol kmag feh brightnessctl redshift qterminal virtualbox i3lock-color(find this in github)
+firefox
+cherrytree
+virtualbox
+xfce4
+flameshot
+thunar
+pavucontrol
+kmag
+feh
+brightnessctl
+redshift
+qterminal
+virtualbox
+i3lock-color(find this in github)
