@@ -21,3 +21,4 @@ redshift
 qterminal
 virtualbox
 i3lock-color(find this in github)
+There's more, but i'll put them later
